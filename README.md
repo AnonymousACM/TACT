@@ -1,4 +1,3 @@
-# TACT
 
 <div align="center">
   <h1 align="center">ACM Multimedia Asia 2025: TACT: Team-Attention-Critic Training for Multi-Agent Reinforcement Learning</h1>
